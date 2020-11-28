@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OleksandrBalashov/testWebpack.git"
+    "url": "git+https://github.com/OleksandrBalashov/zip-test-webpack.git"
   },
   "keywords": [],
   "author": "Alexandr Balashov <aleksandr.balashov.sax@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OleksandrBalashov/testWebpack.git/issues"
+    "url": "https://github.com/OleksandrBalashov/zip-test-webpack/issues"
   },
-  "homepage": "https://github.com/OleksandrBalashov/testWebpack#readme",
+  "homepage": "https://oleksandrbalashov.github.io/zip-test-webpack/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
